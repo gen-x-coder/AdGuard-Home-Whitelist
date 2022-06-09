@@ -1,0 +1,6 @@
+@@|*.antagonist.nl^$important
+@@|*.dutchwhite.nl^$important
+@@|*.bonsel.nl^$important
+@@|*.bonsel.com^$important
+@@|*.postnl.nl^$important
+@@|*.meant2b.nl^$important
