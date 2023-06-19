@@ -4,7 +4,6 @@
 @@|*.postnl.nl^$important
 @@|*.herenboeren.nl^$important
 @@|*.meant2b.nl^$important
-@@|api.triodos.com^$important
 @@|*.antagonist.nl^$important
 @@|cloud.digitalocean.com^$important
-@@|ideal.triodos.nl^$important
+@@|*.triodos.nl^$important
