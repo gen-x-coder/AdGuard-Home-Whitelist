@@ -1,3 +1,9 @@
+[Adblock Plus]
+! Title: My Allowlist
+! Description: This list unblocks sites for personal use.
+! Expires: Updated yearly
+! Syntax: AdBlock
+!
 @@|*.dutchwhite.nl^$important
 @@|*.bonsel.nl^$important
 @@|*.bonsel.com^$important
