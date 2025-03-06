@@ -1,0 +1,9 @@
+[Adblock Plus]
+! Title: My Blocklist
+! Description: This list blocks sites for personal use.
+! Expires: Updated yearly or when needed
+! Syntax: AdBlock
+!
+! Block HP Prinser Services for free ink
+||hp.com^
+||hpeprint.com^
