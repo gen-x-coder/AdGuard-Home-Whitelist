@@ -1,15 +1,19 @@
 [Adblock Plus]
 ! Title: My Allowlist
 ! Description: This list unblocks sites for personal use.
-! Expires: Updated yearly
+! Expires: Updated yearly or when needed
 ! Syntax: AdBlock
 !
 @@|*.dutchwhite.nl^$important
 @@|*.bonsel.nl^$important
 @@|*.bonsel.com^$important
 @@|*.postnl.nl^$important
-@@|*.herenboeren.nl^$important
 @@|*.meant2b.nl^$important
-@@|*.antagonist.nl^$important
 @@|cloud.digitalocean.com^$important
 @@|*.triodos.nl^$important
+! Xbox Achievements
+@@|v10.events.data.microsoft.com
+@@|v20.events.data.microsoft.com
+! Dropbox
+@@|dl.dropboxusercontent.com
+@@|ns1.dropbox.com ns2.dropbox.com
